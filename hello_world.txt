@@ -1,2 +1,2 @@
-Hello Odin!
-Just some more text 
+print("Hello world")
+
